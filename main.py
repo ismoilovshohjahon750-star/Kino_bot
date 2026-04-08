@@ -7,7 +7,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- KONFIGURATSIYA ---
-API_TOKEN = '8026117592:AAFFErkQRHvD-poKjPzMUB0P2xnXjBLymzo'
+API_TOKEN = '8026117592:AAFG0ueeWKImCiMX9HkH97qyZBps-DiORUw'
 SUPER_ADMIN = 8453381252  # Bu siz (Asosiy xo'jayin)
 
 logging.basicConfig(level=logging.INFO)
