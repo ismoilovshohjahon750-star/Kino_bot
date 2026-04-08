@@ -7,8 +7,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- KONFIGURATSIYA ---
-API_TOKEN = 'BOT_TOKENINGIZNI_SHU_YERGA_YOZING'
-ADMIN_ID = 12345678  # O'zingizning Telegram ID'ingizni yozing
+API_TOKEN = '8026117592:AAEy8R_bdaIyWa-bdRoQzqpyb3L1vUV2gyo'
+ADMIN_ID = 8453381252  # O'zingizning Telegram ID'ingizni yozing
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
