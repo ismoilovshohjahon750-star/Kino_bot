@@ -7,7 +7,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- KONFIGURATSIYA ---
-API_TOKEN = 'BOT_TOKEN'
+API_TOKEN = '8026117592:AAEy8R_bdaIyWa-bdRoQzqpyb3L1vUV2gyo'
 ADMIN_ID = 8453381252 # Rasmda ko'ringan ID
 
 logging.basicConfig(level=logging.INFO)
